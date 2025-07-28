@@ -5,7 +5,7 @@
 ![UART](https://img.shields.io/badge/UART-115200_8N1-blueviolet)
 ![Notifications](https://img.shields.io/badge/Thread-Notifications-important)
 
-
+STM32F411 FreeRTOS Project featuring inter-thread notifications, mutex-protected UART, and button-triggered events. Includes 4 threads with Tera Term monitoring.
 
 
 
