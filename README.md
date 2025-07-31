@@ -6,7 +6,7 @@
 ![Notifications](https://img.shields.io/badge/Thread-Notifications-important)
 
 
-<img src="https://github.com/user-attachments/assets/c4fb808a-4458-41e5-9293-d43f23e27825" width="700" alt="335642A6-F1DA-4228-9401-A11C48F09CAB">
+<img src="https://github.com/user-attachments/assets/c4fb808a-4458-41e5-9293-d43f23e27825" width="650" alt="335642A6-F1DA-4228-9401-A11C48F09CAB">
 
 
 
