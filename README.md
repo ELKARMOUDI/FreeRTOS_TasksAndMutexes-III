@@ -9,7 +9,6 @@
 <img src="https://github.com/user-attachments/assets/c4fb808a-4458-41e5-9293-d43f23e27825" width="650" alt="335642A6-F1DA-4228-9401-A11C48F09CAB">
 
 
-
 STM32F411 FreeRTOS Project featuring inter-thread notifications, mutex-protected UART, and button-triggered events. Includes 4 threads with Tera Term monitoring.
 
 
